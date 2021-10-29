@@ -1,1 +1,1 @@
-# Product-Recommendation-System-Using-KNN-algortihm
+# Product-Recommendation-System-Using-KNN-Algorithm
